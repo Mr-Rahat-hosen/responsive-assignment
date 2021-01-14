@@ -1,14 +1,19 @@
-.panda-card{
-    border: 0;
+h1{
+    font-size: 50px;
+    color: lightSalmon;
 }
-.panda-card-footer{
-    background-color: white;
-    border: 0;
+body{
+    font-family: 'Poppins', sans-serif;
 }
-.categories img{
-    width: 100px;
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
-.panda-slide .carousel-item{
-    background-color: thistle;
-    border-radius: 1em;
+.half-width img{
+    width: 100%;
+}
+h5{
+    color: rgb(36, 245, 9);;
 }
