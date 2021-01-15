@@ -17,3 +17,9 @@ body{
 h5{
     color: rgb(36, 245, 9);;
 }
+.last-part{
+    margin-bottom: 10px;
+    margin-top: 80px;
+    border-radius: 2px;
+    border-color: indigo;
+}
